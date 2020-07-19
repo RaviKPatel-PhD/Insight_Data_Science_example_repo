@@ -4,20 +4,20 @@ This Github repo contains an example of how to structure your repo for your Insi
 
 ## Overview/Structure of your Insight projects Github repo:
 
-[Name_of_repo](#Name_of_repo)
-[README.md](#README)
-[/Abbreviated_project_name](#Abbreviated_project_name)
-[/develop](#develop)
-[/config](#config)
-[/pipelines](#pipelines)
-[/tests](#tests)
-[/docs](#docs)
-[/data](#data)
-[LICENSE](#LICENSE)
-[pipfile](#pipfile)
-[pipefile.lock](#pipfile)
-[.gitignore](#.gitignore)
-[.git](#.git)
+[Name_of_repo](#Name_of_repo)  
+[README.md](#README)  
+[/Abbreviated_project_name](#Abbreviated_project_name)  
+[/develop](#develop)  
+[/config](#config)  
+[/pipelines](#pipelines)  
+[/tests](#tests)  
+[/docs](#docs)  
+[/data](#data)  
+[LICENSE](#LICENSE)  
+[pipfile](#pipfile)  
+[pipefile.lock](#pipfile)  
+[.gitignore](#.gitignore)  
+[.git](#.git)  
 
 
 ## Name_of_repo
