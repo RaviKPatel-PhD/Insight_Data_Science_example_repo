@@ -51,16 +51,19 @@ You can store things here that were calculated during your project, such as opti
 You can store your final model here.
 
 ## tests
-If someone where to clone your model what tests could they run to ensure its running properly? It is software engineering best practice to always have some tests to run to make sure everything is running properly. These test cases could be individual instances from the test dataset that you know the answer to. 
+If someone where to clone your model what tests could they run to ensure its running properly? It is software engineering best practice to always have some tests to run to make sure everything is running properly. These test cases could be individual instances from the test dataset that you know the answer to.
 
 ## docs
 
 ## data
+Keep your raw data here and the final transformed dataset(s).
 
 ## LICENSE
+We highly recommend including a license within your repo so people credit you if they take something from your project. Many fellows in the past have used the MIT license, but feel free to choose whichever works best for you. You can learn how to add a license to your repo [here](https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
 
 ## pipfile and pipefile.lock
 
 ## .gitignore
+The .gitignore file contains the file names of files that you **don't** want to push to the remote (and maybe public) Github repo. We recommend inluding any API keys, API secrets, user names, passwords, etc. in a credentials.py file and then including the credentials.py file in the .gitignore. A common credential many Fellows use is their AWS account information which contains your AWS credits. You may also want to include other materials here as well.
 
 ## .git
